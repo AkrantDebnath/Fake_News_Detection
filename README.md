@@ -6,10 +6,11 @@ It is built with Python, Scikit-learn, and Streamlit.
     1) Interactive Streamlit web app for user-friendly predictions.
     
     2) Supports multiple ML models:
+            - Logistic Regression
     
             - Naive Bayes (MultinomialNB)
             
-            - Support Vector Machine (LinearSVC)
+            - Support Vector Machine (LinearSVM)
             
     3) Uses TF-IDF Vectorization for text feature extraction.
     
