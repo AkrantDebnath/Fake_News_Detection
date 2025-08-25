@@ -18,15 +18,17 @@ It is built with Python, Scikit-learn, and Streamlit.
     5) Dataset: Trained on the ISOT Fake News Dataset( True.csv & Fake.csv).
 
 🔹 Tech Stack
-Frontend/UI: Streamlit
 
-Backend/ML: Scikit-learn, Python
+    Frontend/UI: Streamlit
 
-Data Handling: Pandas, NumPy
+    Backend/ML: Scikit-learn, Python
+
+    Data Handling: Pandas, NumPy
 
 🔹 How to Run
 # Clone the repository
 git clone https://github.com/AkrantDebnath/Fake_News_Detection.git
+
 cd Fake_News_Detection
 
 # Install dependencies
